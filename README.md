@@ -1,6 +1,6 @@
 # Assignment-WebProg-1
 Create a simple web site comprising of:
-- At least two separate pages
+- At **least two** separate pages
 - A standard layout with:
   - header
   - navigation
@@ -8,4 +8,6 @@ Create a simple web site comprising of:
   - footer
 
 Should be **adaptive** and **responsive** i.e. different layout for different screen sizes and images always viewable.  
-Have no JavaScript at all – no templates e.g. bootstrap.
+Have **no JavaScript** at all – **no templates** e.g. bootstrap.
+
+**Due: Start of Week 2**
